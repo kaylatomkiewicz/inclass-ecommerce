@@ -1,4 +1,4 @@
 inclass-ecommerce
 =================
 
-In-class Tutorial on Modules
+In Class Tutorial on Modules
