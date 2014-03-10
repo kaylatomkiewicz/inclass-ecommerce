@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.promo-small {
+	background-color: #c7c0ae;
+	border-radius: 10px;
+}
+
+.promo-group .unit:last-child .promo-small {
+	background-color: green;
+}
